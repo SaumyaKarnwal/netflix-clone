@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "netflix-clone-94cd8",
+    "staging": "netflix-clone-94cd8"
+  },
+  "targets": {},
+  "etags": {}
+}
